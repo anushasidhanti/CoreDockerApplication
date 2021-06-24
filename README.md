@@ -1,0 +1,1 @@
+# CoreDockerApplication
